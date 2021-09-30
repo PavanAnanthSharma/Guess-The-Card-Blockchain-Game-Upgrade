@@ -50,7 +50,7 @@ ERC-2981:(A standardized way to retrieve royalty payment information for non-fun
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Output(example images):
+## Output (example images):
 
 * Interface:
 
