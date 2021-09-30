@@ -70,7 +70,7 @@ Formula by: Pavan Ananth Sharma
 
 Where
 
-*  GsZ = Grid Size as a martix. (Example: 3X3 or 13X13)
+*  GsZ = Grid Size as a martix, also can be called as the difficulty. (Example: 3X3 or 13X13)
 *  Nu = Number of users / players who have or are playing.
 *  Cst = Cost of tokens
 *  Ta = MindToken.
@@ -92,13 +92,44 @@ Formula by: Pavan Ananth Sharma
 
 <img width="337" alt="FormulaForGameForToken" src="https://user-images.githubusercontent.com/86551444/135526395-eee4b9f7-9c15-41df-898d-2eab3fbc6e93.PNG">
 
+This means the cost of Ta & Tb or the MindToken and  Mind-Magic-Elixir token function is directly proportional to GsZ or the size/difficulty level of the game; i.e. when the GsZ goes up or the level of difficulty increases even the price of Ta & Tb( MindToken & Mind-Magic-Elixir) also increases by the current price's thousandth power or 1 in thousand parts.
+
+Example:
+
+Let's suppose: 
+
+Current level = 3
+
+GsZ = 3X3
+
+Price of Ta = 1000.00$
+
+Price of Tb = 2000.00$
+
+
+Now let's say:
+
+Current level = 4
+
+GsZ = 4X4
+
+Price of Ta = 1001.00$
+
+Price of Tb = 2001.00$
+
+* Which follows the formula and dynamically increases and decreases the difficulty which means if the difficulty decreases the price of tokens decreases and if the difficulty increases the price of tokens also increases, which makes the competition & reward healthy & super fun to play.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >Conclusion:
 
-If you enjoyed this code and tutorial do follow me here GitHub and on my instagram.
+If you enjoyed this code and this amazing sesion make sure you follow me here on GitHub and also my Instagram for more amazong content.
 
 Thankyou!!
+
+```
+0x2006f8eB8936943B70B4f4377EceCE2096EebF55
+```
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
