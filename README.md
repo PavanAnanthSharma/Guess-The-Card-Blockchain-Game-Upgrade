@@ -60,7 +60,8 @@ The gas fee will be cost only when the correct pair is found out and when about 
 
 >Conclusion:
 
-If you enjoyed this code and tutorial do follow me here and on my instagram 
+If you enjoyed this code and tutorial do follow me here GitHub and on my instagram.
+
 Thankyou!!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
