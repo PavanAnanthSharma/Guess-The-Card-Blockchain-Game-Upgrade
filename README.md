@@ -138,7 +138,16 @@ Price of Ta = 1001.00$
 
 Price of Tb = 2001.00$
 
+* And once in 500 times when the game restarts and starts running on new block the matrix will become (m ≠ n)% which means the number of rows ≠ number of column, and every 500th time on the new block m = m + 1 and the next 500th time n = n + 1. (Please note this lasts untill the 500th block is mined which means the chances are low and rewards are high)
+
+* Example:
+* 1st 500th block : m = m + 1 & m ≠ n which can give us [14X13] matrix.
+
+* 2nd 500th block : n = n + 1 & m ≠ n which can give us [13X14] matrix.
+
+
 * Which follows the formula and dynamically increases and decreases the difficulty which means if the difficulty decreases the price of tokens decreases and if the difficulty increases the price of tokens also increases, which makes the competition & reward healthy & super fun to play.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
