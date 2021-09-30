@@ -32,6 +32,32 @@ The gas fee will be cost only when the correct pair is found out and when about 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+>Example Images
+
+* Interface:
+
+<img width="953" alt="BlockcahinGame_Image1" src="https://user-images.githubusercontent.com/86551444/135518309-cd2b7083-4b98-47a5-9aac-94c473a987bc.PNG">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* When the perfect match is found:
+
+<img width="953" alt="BlockcahinGame_Image2" src="https://user-images.githubusercontent.com/86551444/135518717-7d8dd5db-e68c-4401-8ec6-615a09952cd8.PNG">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Another example of perfect match and paying the fees:
+
+<img width="953" alt="BlockcahinGame_Image5" src="https://user-images.githubusercontent.com/86551444/135518945-589cafee-8d2a-4904-9da6-2f4a280efa84.PNG">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* When the user pics a wrong pair / incorrect match:
+
+<img width="953" alt="BlockcahinGame_Image4" src="https://user-images.githubusercontent.com/86551444/135519183-a1badd9a-a6a5-4d24-9b23-8a3f1ff7fa4e.PNG">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
