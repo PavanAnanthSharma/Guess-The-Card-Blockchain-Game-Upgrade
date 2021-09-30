@@ -19,6 +19,7 @@ In this game whenever you pic a card a special loop is created and when you pick
 
 This game can help in increasing memory power and also rewards the users, so this concept is a win-win for the user and also promotes a particular cryptocurrency.
 The gas fee will be cost only when the correct pair is found out and when about to redeem it to your wallet.
+There will be constant updates if the game releases which will never make it boring to the users.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
