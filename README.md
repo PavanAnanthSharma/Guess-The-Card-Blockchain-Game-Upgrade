@@ -58,9 +58,9 @@ The gas fee will be cost only when the correct pair is found out and when about 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->Future plans:
+## Plans under implementation / progresss:
 
-We can make this an NFT hunting game, where players and users can compete and hunt for NFT's and then level them up by either buying a Mind-Magic-Elixir token (MMET) a new token for upgrading NFT minted by the user or by constantly winning the NFT hunt.
+* We can make this an NFT hunting game, where players and users can compete and hunt for NFT's and then level them up by either buying a Mind-Magic-Elixir token (MMET) a new token for upgrading NFT minted by the user or by constantly winning the NFT hunt.
 As the number of people increases the grid size also should increase by the following formula:
 ```
 Formula by: Pavan Ananth Sharma
