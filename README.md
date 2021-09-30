@@ -28,7 +28,24 @@ The gas fee will be cost only when the correct pair is found out and when about 
 * Truffle should be installed, if not code : ``` npm install truffle -g --force```
 * Ganache local blockchain should be installed, if not link: https://www.trufflesuite.com/ganache
 * Knowledge about OpenZiplin.
-* Ganache should be connected to metamask
+* Ganache should be connected to metamask.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Interfaces / standards used is ERC:
+
+ERC is an acronym that stands for Ethereum Request for Comments. ERCs are application-level standards for Ethereum and can include token standards, name registries, library/package formats, and more. Anyone can create an ERC, but it is the author’s responsibility to clearly explain their standard and foster support for it within the community.Common ERC standards define a required set of functions for a token type, allowing applications and smart contracts to interact with them in a predictable way.
+* Here are a few stadards we and will be using in future:
+```
+ERC-20
+ERC-223
+ERC-721
+ERC-777
+ERC-1155
+ERC-2981
+```
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,25 +53,25 @@ The gas fee will be cost only when the correct pair is found out and when about 
 
 * Interface:
 
-<img width="953" alt="BlockcahinGame_Image1" src="https://user-images.githubusercontent.com/86551444/135518309-cd2b7083-4b98-47a5-9aac-94c473a987bc.PNG">
+<img width="753" alt="BlockcahinGame_Image1" src="https://user-images.githubusercontent.com/86551444/135518309-cd2b7083-4b98-47a5-9aac-94c473a987bc.PNG">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * When the perfect match is found:
 
-<img width="953" alt="BlockcahinGame_Image2" src="https://user-images.githubusercontent.com/86551444/135518717-7d8dd5db-e68c-4401-8ec6-615a09952cd8.PNG">
+<img width="753" alt="BlockcahinGame_Image2" src="https://user-images.githubusercontent.com/86551444/135518717-7d8dd5db-e68c-4401-8ec6-615a09952cd8.PNG">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Another example of perfect match and paying the fees:
 
-<img width="953" alt="BlockcahinGame_Image5" src="https://user-images.githubusercontent.com/86551444/135518945-589cafee-8d2a-4904-9da6-2f4a280efa84.PNG">
+<img width="753" alt="BlockcahinGame_Image5" src="https://user-images.githubusercontent.com/86551444/135518945-589cafee-8d2a-4904-9da6-2f4a280efa84.PNG">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * When the user pics a wrong pair / incorrect match:
 
-<img width="953" alt="BlockcahinGame_Image4" src="https://user-images.githubusercontent.com/86551444/135519183-a1badd9a-a6a5-4d24-9b23-8a3f1ff7fa4e.PNG">
+<img width="753" alt="BlockcahinGame_Image4" src="https://user-images.githubusercontent.com/86551444/135519183-a1badd9a-a6a5-4d24-9b23-8a3f1ff7fa4e.PNG">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
