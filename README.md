@@ -37,19 +37,20 @@ The gas fee will be cost only when the correct pair is found out and when about 
 ERC is an acronym that stands for Ethereum Request for Comments. ERCs are application-level standards for Ethereum and can include token standards, name registries, library/package formats, and more. Anyone can create an ERC, but it is the author’s responsibility to clearly explain their standard and foster support for it within the community.Common ERC standards define a required set of functions for a token type, allowing applications and smart contracts to interact with them in a predictable way.
 * Here are a few stadards we and will be using in future:
 ```
-ERC-20
-ERC-223
-ERC-721
-ERC-777
-ERC-1155
-ERC-2981
+ERC-20:(This is the standard API used for fungible tokens, including transfer and balance tracking functionalities.)
+ERC-223:(This standard protects users from accidental contract transfers.)
+ERC-721:(This is the most popular non-fungible token (NFT) standard. While fungible tokens can be divided, non-fungible tokens can not. NFTs can be owned and transacted by individuals as well as consigned to third-parties. NFTs can represent ownership over digital or physical assets.)
+ERC-777:(Like ERC20, ERC777 is a standard for fungible tokens, and is focused around allowing more complex interactions when trading tokens. More generally, it brings tokens and Ether closer together by providing the equivalent of a msg. value field, but for tokens.)
+ERC-1155:(This set of interfaces and contracts are all related to the ERC1155 Multi Token Standard.The EIP consists of three interfaces which fulfill different roles, found here as IERC1155, IERC1155MetadataURI and IERC1155Receiver.
+ERC1155 implements the mandatory IERC1155 interface, as well as the optional extension IERC1155MetadataURI, by relying on the substitution mechanism to use the same URI for all token types, dramatically reducing gas costs.)
+ERC-2981:(A standardized way to retrieve royalty payment information for non-fungible tokens (NFTs) to enable universal support for royalty payments across all NFT marketplaces and ecosystem participants.)
 ```
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->Example Images
+## Output(example images):
 
 * Interface:
 
