@@ -35,7 +35,8 @@ The gas fee will be cost only when the correct pair is found out and when about 
 > Interfaces / standards used is ERC:
 
 ERC is an acronym that stands for Ethereum Request for Comments. ERCs are application-level standards for Ethereum and can include token standards, name registries, library/package formats, and more. Anyone can create an ERC, but it is the author’s responsibility to clearly explain their standard and foster support for it within the community.Common ERC standards define a required set of functions for a token type, allowing applications and smart contracts to interact with them in a predictable way.
-* Here are a few stadards we and will be using in future:
+
+* Here are a few stadards we are and will be using in future:
 ```
 ERC-20:(This is the standard API used for fungible tokens, including transfer and balance tracking functionalities.)
 ERC-223:(This standard protects users from accidental contract transfers.)
