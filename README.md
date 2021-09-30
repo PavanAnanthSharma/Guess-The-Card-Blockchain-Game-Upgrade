@@ -58,6 +58,42 @@ The gas fee will be cost only when the correct pair is found out and when about 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+>Future plans:
+
+We can make this an NFT hunting game, where players and users can compete and hunt for NFT's and then level them up by either buying a Mind-Magic-Elixir token (MMET) a new token for upgrading NFT minted by the user or by constantly winning the NFT hunt.
+As the number of people increases the grid size also should increase by the following formula:
+```
+Formula by: Pavan Ananth Sharma
+```
+
+<img width="337" alt="FormulaForGameGridSizeBYPavanAnanthSharma" src="https://user-images.githubusercontent.com/86551444/135525005-3766ce10-6cad-4124-9467-63cc879075a8.PNG">
+
+Where
+
+*  GsZ = Grid Size as a martix. (Example: 3X3 or 13X13)
+*  Nu = Number of users / players who have or are playing.
+*  Cst = Cost of tokens
+*  Ta = MindToken.
+*  Tb = Mind-Magic-Elixir token(MMET).
+*  Nn = Number of NFT's(ERC-721) collected or minted so far.
+
+```
+Note: If the size of the grid is throwing a float data type it should be converted to an integer value then the matrix should be constructed by the code. 
+
+Example: if GsZ = 13.3333443 = 13 ; build [13X13] ;
+
+Example 2: if GsZ = 14.98 = 14 ; build [14X14] ;
+```
+
+We also can increase or decrease the reward on basis of GsZ which depends on the above factors as well using this formula:
+```
+Formula by: Pavan Ananth Sharma
+```
+
+<img width="337" alt="FormulaForGameForToken" src="https://user-images.githubusercontent.com/86551444/135526395-eee4b9f7-9c15-41df-898d-2eab3fbc6e93.PNG">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 >Conclusion:
 
 If you enjoyed this code and tutorial do follow me here GitHub and on my instagram.
