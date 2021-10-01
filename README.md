@@ -130,7 +130,7 @@ Price of Tb = 2000.00$
 
 Now let's say:
 
-Current level = 4
+New upgraded level = 4
 
 GsZ = 4X4
 
