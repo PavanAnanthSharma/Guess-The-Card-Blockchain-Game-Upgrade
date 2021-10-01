@@ -111,7 +111,7 @@ We also can increase or decrease the reward on basis of GsZ which depends on the
 Formula by: Pavan Ananth Sharma
 ```
 
-<img width="337" alt="FormulaForGameForToken" src="https://user-images.githubusercontent.com/86551444/135526395-eee4b9f7-9c15-41df-898d-2eab3fbc6e93.PNG">
+<img width="377" alt="BlockcahinGameTokenFormulaByPavanAanthSharma" src="https://user-images.githubusercontent.com/86551444/135581946-48d00181-612c-47e8-8719-7027ab287720.PNG">
 
 This means the cost of Ta & Tb or the MemoryToken and  Mind-Magic-Elixir token function is directly proportional to GsZ or the size/difficulty level of the game; i.e. when the GsZ goes up or the level of difficulty increases even the price of Ta & Tb( MemoryToken & Mind-Magic-Elixir) also increases by the current price's thousandth power or 1 in thousand parts.
 
