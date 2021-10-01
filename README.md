@@ -91,7 +91,7 @@ Formula by: Pavan Ananth Sharma
 
 Where
 
-*  GsZ = Grid Size represented as martix, also can be called as the difficulty. (Example: level 3 = 3X3 or level 13 = 13X13)
+*  GsZ = Grid Size represented as martix, also can be called as the difficulty. (Example: level 3 = 3X3 or level 13 = [13X13]
 *  Nu = Number of users / players who have or are playing.
 *  Cst = Cost of tokens
 *  Ta = MemoryToken.
