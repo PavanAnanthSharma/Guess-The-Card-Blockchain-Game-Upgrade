@@ -12,7 +12,7 @@ Contributors: Oliver Shmikele, Siddarth Raj, Austin Rudolph.
 >Introduction
 
 This game is based on the popular guess the card memory exercise game using food cards, this is based on the ERC-20 & ERC-721 standards which are the very standards used for transferring tokens or value from one address to another.
-In this game whenever you pic a card a special loop is created and when you pick another card there the loop ends but as soon as you pic 2 similar cards in the same loop (example: burger card and burger card) you win and the burger card gets added into your scorecard and removed from the user grid then a certain amount of MindTokens(ERC-20) will be added into your wallet as the reward.
+In this game whenever you pic a card a special loop is created and when you pick another card there the loop ends but as soon as you pic 2 similar cards in the same loop (example: burger card and burger card) you win and the burger card gets added into your scorecard and removed from the user grid then a certain amount of MemoryTokens(ERC-20) will be added into your wallet as the reward.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Where
 *  GsZ = Grid Size as a martix, also can be called as the difficulty. (Example: 3X3 or 13X13)
 *  Nu = Number of users / players who have or are playing.
 *  Cst = Cost of tokens
-*  Ta = MindToken.
+*  Ta = MemoryToken.
 *  Tb = Mind-Magic-Elixir token(MMET).
 *  Nn = Number of NFT's(ERC-721) collected or minted so far.
 
@@ -113,7 +113,7 @@ Formula by: Pavan Ananth Sharma
 
 <img width="337" alt="FormulaForGameForToken" src="https://user-images.githubusercontent.com/86551444/135526395-eee4b9f7-9c15-41df-898d-2eab3fbc6e93.PNG">
 
-This means the cost of Ta & Tb or the MindToken and  Mind-Magic-Elixir token function is directly proportional to GsZ or the size/difficulty level of the game; i.e. when the GsZ goes up or the level of difficulty increases even the price of Ta & Tb( MindToken & Mind-Magic-Elixir) also increases by the current price's thousandth power or 1 in thousand parts.
+This means the cost of Ta & Tb or the MemoryToken and  Mind-Magic-Elixir token function is directly proportional to GsZ or the size/difficulty level of the game; i.e. when the GsZ goes up or the level of difficulty increases even the price of Ta & Tb( MemoryToken & Mind-Magic-Elixir) also increases by the current price's thousandth power or 1 in thousand parts.
 
 Example:
 
