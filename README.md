@@ -4,8 +4,10 @@
 
 ```
 @dev/Editor: Pavan Ananth Sharma.
-Contributors: Oliver Shmikele, Siddarth Raj, Austin Rudolph.
+Non-credited contributors: Oliver Shmikele, Siddarth Raj, Austin Rudolph.
+
 ```
+_Note: The non credited contributor are willingly not accepting any credits for this project or any upgrades done on this project, for more information please refer to the lisense._
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
