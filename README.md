@@ -11,7 +11,7 @@ Contributors: Oliver Shmikele, Siddarth Raj, Austin Rudolph.
 
 >Introduction
 
-This game is based on the popular guess the card memory exercise game using food cards, this is based on the ERC-20 standards which are the very standards used for transferring tokens or value from one address to another.
+This game is based on the popular guess the card memory exercise game using food cards, this is based on the ERC-20 & ERC-721 standards which are the very standards used for transferring tokens or value from one address to another.
 In this game whenever you pic a card a special loop is created and when you pick another card there the loop ends but as soon as you pic 2 similar cards in the same loop (example: burger card and burger card) you win and the burger card gets added into your scorecard and removed from the user grid then a certain amount of MindTokens(ERC-20) will be added into your wallet as the reward.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
