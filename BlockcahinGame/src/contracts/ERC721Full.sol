@@ -1,5 +1,6 @@
 
 // File: @openzeppelin/contracts/introspection/IERC165.sol
+// using openzeppelin makes it simple for us to import larger files and skip typing them over and over.
 
 pragma solidity ^0.5.0;
 
