@@ -1,4 +1,4 @@
-# Guess the card game | Powered by Ethereum Blockcahin 
+# Guess the card game | Powered by Ethereum Blockchain 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
