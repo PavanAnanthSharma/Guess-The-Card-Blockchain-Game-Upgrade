@@ -172,6 +172,9 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+      
+   10. If the contributors are willingly not taking any credits to this current project, they shall not be given credit to any upgrades done to this project in the future nor         for any branch, they have forked. This also means that the non-credited contributors will not be given any intellectual property rights over this current or any further         upgraded software or code. The developer of this code or the person who files the patent will not be questioned regarding rights over the software as they(non-credited           contributors) have willingly not accepted to take any credits for this software(current or any future updates of this very same project which can include adding new             features, user interface etc.). This also means that the person who files the patent first is the actual owner of the code and has all rights over it irrespective of the         state of the software(past or old versions, current versions, future versions or any upgraded version) and the non-credited contributors will not be eligible for taking         any royalty for this software irrespective of the version of it(old or current or new). 
+   
 
    END OF TERMS AND CONDITIONS
 
@@ -186,7 +189,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2021] [Pavan Ananth]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
