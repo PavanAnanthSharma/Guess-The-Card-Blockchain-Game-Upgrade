@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```
-@dev/Editor: Pavan Ananth Sharma.
+@dev/Editor: Pavan Ananth Sharma. 
 Non-credited contributors: Oliver Shmikele, Siddarth Raj, Austin Rudolph.
 
 ```
